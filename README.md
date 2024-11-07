@@ -6,6 +6,8 @@
 
 [![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akanksha1055&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Holopin badges👀
+[![ @akanksha1055's Holopin badges](https://holopin.me/akanksha1055)](https://holopin.io/@akanksha1055)
 
 
 # 💻 Tech Stack
